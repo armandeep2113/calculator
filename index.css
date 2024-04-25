@@ -1,0 +1,63 @@
+#cal
+{
+  border: 1px solid rgb(217, 217, 217);
+  padding:10px 30px ;
+  
+  width: 210px;
+  border-radius: 10px;
+  color: aliceblue;background: black;
+
+}
+#display
+{
+  border: 1px solid rgb(11, 0, 0);
+  background: black;
+    margin: 10px ;color: antiquewhite;
+ width: 88%;
+ height: 60px;
+
+}
+.num{
+  border: none;
+  background: grey;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
+#clear{
+padding: 12px 70px;
+background: lightgrey;
+border: none;
+border-radius: 25px;  margin: 1px;
+}
+.ex{
+  border: none;
+  background: rgb(235, 39, 39);
+  border-radius: 50px;
+   margin: 1px;
+  height: 50px;
+  width: 50px;
+}
+#zero
+{
+  padding: 12px 45px;
+background: rgb(32, 29, 29);
+border: none;
+border-radius: 25px;  margin: 1px;
+color: aliceblue;
+}
+#button
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin:1px;
+}
+#name
+{
+  color: aliceblue;
+  text-align: center;
+  font-size: small;
+
+}
